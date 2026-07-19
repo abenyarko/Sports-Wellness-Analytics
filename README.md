@@ -161,9 +161,68 @@ The accompanying Power BI dashboard enables coaches and sports medicine staff to
 - Identify athletes requiring intervention
 - Explore interactive drill-through reports
 
-![Season Overview](visuals/season-overview.png)
+### Executive Season Overview
+
+The Executive Season Overview provides coaches and sports performance staff with a high-level summary of athlete wellness across the season. Key performance indicators (KPIs), wellness distributions, and survey participation trends allow decision-makers to quickly assess overall team health.
+
+<p align="center">
+  <img src="Season-Overview.png" width="950">
+</p>
+---
+
+### Wellness Drivers Dashboard
+
+This page explores the relationships between the primary wellness indicators and the overall Wellbeing Score. Interactive trend visualizations help identify which factors have the strongest influence on athlete wellbeing and support evidence-based recovery decisions.
+
+<p align="center">
+  <img src="Wellness-Drivers.png" width="950">
+</p>
 
 ---
+
+### Individual Player Analysis
+
+After selecting a month, users can drill down to individual athlete performance, comparing weighted averages across wellness indicators and identifying athletes who may benefit from targeted interventions.
+
+<p align="center">
+  <img src="Player-Primary-Driver.png" width="950">
+</p>
+
+---
+
+### Metadata & KPI Definitions
+
+The dashboard includes embedded metadata describing data sources, KPI definitions, reporting frequency, and business rules to improve transparency and ensure consistent interpretation across users.
+
+<p align="center">
+  <img src="Metadata-Resource-Information.png" width="950">
+</p>
+
+---
+
+### Interactive Dashboard Filters
+
+Users can dynamically filter dashboard results by playing position, athlete status, day of the week, and month, allowing coaches and sports medicine staff to tailor analyses to specific athlete groups and reporting periods.
+
+<p align="center">
+  <img src="Wellness-Drivers-Slicers.png" width="950">
+</p>
+
+---
+
+### Dashboard Navigation
+
+Navigation controls provide quick access to the Executive Season Overview, Wellness Drivers analysis, and individual player drill-through pages, enabling users to move seamlessly between strategic and operational views.
+
+<p align="center">
+  <img src="Season-Overview-Slicers.png" width="950">
+</p>
+
+---
+
+
+
+
 
 
 
