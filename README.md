@@ -1,23 +1,23 @@
-# Sports-Wellness-Analytics
+# 🥍 Sports-Wellness-Analytics
 **Developed an end-to-end analytics pipeline using survey-weighted statistics, machine learning, and Power BI to support athlete wellness monitoring and evidence-based performance decisions.**
-
-# 🥍 Sports Wellness Analytics
 
 ## Executive Summary
 
-This project demonstrates how survey statistics, predictive analytics, and business intelligence can be combined to support evidence-based athlete wellness monitoring.
+The primary objective is to assess player wellness using five known performance indicators (KPIs): sleep quality, motivation, overall stress, physical fatigue, and soreness. The analysis distinguishes primary drivers, secondary drivers, and supporting indicators of wellness, while identifying meaningful differences across playing positions.
 
-Using daily wellness survey data collected throughout an NCAA Division I men's lacrosse season, I developed an end-to-end analytics pipeline that transforms subjective athlete wellness responses into actionable insights for coaches and sports medicine professionals.
+Using daily wellness survey data collected throughout an NCAA Division I men's lacrosse season, I developed an end-to-end analytics pipeline that transforms subjective athlete wellness responses into a longitudinal decision-support framework that creates actionable insights for coaches and sports performance professionals.
 
-The project integrates survey-weighted statistical methods, bootstrapping, regression modeling, machine learning, and interactive Power BI dashboards to identify the primary drivers of athlete wellness and support proactive decision-making.
+The project integrates survey-weighted statistical methods, bootstrapping, regression modeling, and interactive Power BI dashboards to identify the primary drivers of athlete wellness and support proactive decision-making.
 
 ---
 
 ## Business Problem
 
-Athlete wellness is influenced by multiple physical and psychological factors that fluctuate throughout the competitive season.
+Athlete wellness is dynamic rather than static.
 
-Traditional monitoring often relies on isolated observations or raw survey responses, making it difficult to identify meaningful trends or determine when intervention is needed.
+Traditional monitoring often relies on isolated survey responses that provide only a snapshot of how an athlete feels on a given day.
+
+This project addresses that limitation by developing a longitudinal decision-support framework that monitors wellness trends over time, enabling earlier identification of meaningful changes in athlete readiness.
 
 The objective of this project was to develop a repeatable analytics framework capable of:
 
@@ -25,7 +25,7 @@ The objective of this project was to develop a repeatable analytics framework ca
 - Identifying key wellness drivers
 - Understanding position-specific differences
 - Supporting evidence-based recovery decisions
-- Providing executive-ready dashboards for coaches and sports medicine staff
+- Providing executive-ready dashboards for coaches and sports performance staff
 
 ---
 
@@ -81,12 +81,6 @@ This project combines traditional statistical analysis with modern analytics tec
 - Survey-weighted GLM
 - Position interaction models
 
-### Predictive Analytics
-
-- Regression modeling
-- Machine Learning
-- Model evaluation
-
 ### Business Intelligence
 
 - Power BI Dashboard
@@ -136,14 +130,24 @@ Examples include:
 
 ## Weekly Wellness Trends
 
-Mid-week wellness monitoring emerged as the most valuable assessment period.
+Mid-week wellness monitoring emerged as the most valuable period for assessing athlete readiness. However, evaluating Tuesday and Thursday wellness scores in isolation only provides a snapshot of how an athlete feels on a given day. The true value lies in tracking the **change** in individual wellness scores throughout the week and across the season.
 
-The analysis recommends:
+Monitoring these changes enables coaches and sports medicine staff to identify meaningful shifts in athlete readiness, evaluate recovery trajectories, and intervene before declines in performance or health become more pronounced.
 
-- Tuesday as the weekly baseline.
-- Thursday as the primary decision point for training adjustments.
-- Friday readiness monitoring.
-- Sunday post-game recovery assessments.
+Expanding wellness monitoring to additional days throughout the week will provide a more complete picture of training response, competition readiness, and post-game recovery while improving the accuracy of long-term trend analysis.
+
+### Recommendations
+
+- Use Tuesday as the weekly baseline for athlete wellness.
+- Compare Tuesday and Thursday wellness scores to identify meaningful changes in readiness.
+- Use Thursday as the primary decision point for training load and recovery adjustments.
+- Add Friday wellness surveys to assess pre-game readiness.
+- Add Sunday wellness surveys to evaluate post-game recovery.
+- Flag athletes whose wellness scores decline meaningfully from Tuesday to Thursday for targeted interventions.
+- Increase survey frequency to improve longitudinal monitoring throughout the season.
+- Use individual wellness trends—not single-day scores—to guide personalized recovery strategies.
+
+Ultimately, the objective is not to identify athletes who report a low wellness score on a single day, but to identify meaningful changes in individual wellness trajectories that support proactive, evidence-based decisions.
 
 ---
 
@@ -176,7 +180,9 @@ The accompanying Power BI dashboard enables coaches and sports medicine staff to
 
 ## Business Impact
 
-This project demonstrates how modern analytics can transform athlete wellness monitoring from reactive reporting into proactive decision support.
+Rather than treating wellness surveys as isolated daily check-ins, this framework transforms repeated observations into longitudinal evidence that supports proactive decision-making.
+
+The result is a scalable decision-support system capable of identifying emerging trends before they become performance or health concerns.
 
 The resulting framework supports:
 
@@ -188,33 +194,73 @@ The resulting framework supports:
 
 ---
 
+## Lessons Learned
+
+This project reinforced that the value of analytics is not found in producing reports—it is found in designing systems that enable better decisions.
+
+One of the most important outcomes was recognizing that monitoring longitudinal changes in athlete wellness provides significantly greater value than interpreting isolated daily observations.
+
+This insight fundamentally changed the direction of the project and established the foundation for future predictive athlete monitoring.
+
+---
+
 ## Future Development
 
-Planned enhancements include:
+Future work will extend the longitudinal decision-support framework through the folowing enhancements:
 
-- Integration with Catapult workload metrics
-- VALD jump testing integration
-- CMJ and RSI readiness modeling
+- Integration of Catapult GPS workload metrics
+- Integretion of CMJ, RSImod, and VALD performance testing.
+- Athlete monitoring platform capable of predicting readiness and supporting proactive interventions.
 - Predictive machine learning models
 - R Shiny applications
 - Real-time wellness monitoring
 - AI-assisted decision support
 
+### Methodological Enhancements
+
+One of the most important findings from this project was methodological rather than statistical.
+
+While Tuesday and Thursday surveys provided valuable snapshots of athlete wellness, the analysis demonstrated that single-day observations alone do not fully capture athlete readiness. The greatest value lies in monitoring changes in individual wellness scores over time rather than interpreting isolated responses.
+
+Future iterations of this framework will transition from point-in-time monitoring to a longitudinal decision-support framework by:
+
+- Monitoring changes in individual wellness scores throughout the week rather than relying on single-day observations.
+- Expanding wellness data collection to include Friday (pre-game readiness) and Sunday (post-game recovery).
+- Tracking athlete wellness trajectories across the entire season to identify meaningful deviations from individual baselines.
+- Developing individualized readiness thresholds using longitudinal trends rather than population averages.
+- Integrating subjective wellness measures with objective performance metrics (CMJ, RSI, Catapult, and VALD) to improve predictive decision-making.
+
+The long-term vision is to evolve this project from a wellness reporting system into a longitudinal decision-support framework that proactively identifies meaningful changes in athlete readiness and supports evidence-based intervention strategies.
+
+---
+
+## Why This Project Matters
+
+Organizations often collect data without developing systems that transform those observations into meaningful decisions.
+
+This project demonstrates how a longitudinal decision-support framework can convert routine wellness surveys into an evidence-based process for monitoring change, identifying emerging risks, and supporting proactive interventions.
+
+Although developed within collegiate athletics, the framework is transferable to healthcare, higher education, occupational health, military readiness, and other environments where continuous monitoring informs operational decisions.
+
+---
+
+***This project reflects my passion for building analytics ecosystems that move organizations beyond reporting toward proactive, evidence-based decision-making through longitudinal decision-support frameworks.***
+
 ---
 
 ## Repository Structure
 
-analysis/
+📂 analysis/
 
-dashboard/
+📂 dashboard/
 
-executive-summary/
+📂 executive-summary/
 
-modeling/
+📂 modeling/
 
-report/
+📂 report/
 
-visuals/
+📂 visuals/
 
 README.md
 
