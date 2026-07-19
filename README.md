@@ -161,7 +161,12 @@ The accompanying Power BI dashboard enables coaches and sports medicine staff to
 - Identify athletes requiring intervention
 - Explore interactive drill-through reports
 
-(Add dashboard screenshots here)
+![Season Overview](visuals/season-overview.png)
+
+---
+
+
+
 
 ---
 
