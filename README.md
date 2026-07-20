@@ -308,9 +308,9 @@ Although developed within collegiate athletics, the framework is transferable to
 This project includes multiple deliverables tailored to both executive and technical audiences.
 
 ### Decision Support Dashboard
-A dashboard to explore the results interactively.
+An interactive Power BI dashboard that transforms complex statistical analyses into intuitive visualizations for coaches, sports performance professionals, and organizational stakeholders. The dashboard supports longitudinal athlete wellness monitoring through executive KPIs, wellness trend analysis, player-level drill-through reports, and interactive filtering designed to facilitate evidence-based decision-making.
 
-
+📊 **Dashboard screenshots are displayed throughout this README.**
 
 ### Executive Summary
 A concise overview of the project's objectives, key findings, business impact, and strategic recommendations for organizational leaders.
@@ -349,6 +349,19 @@ README.md
 Anthony Benyarko
 
 Data Analytics Professional specializing in survey statistics, predictive analytics, business intelligence, and decision science.
+
+### Skills Demonstrated
+
+- Survey Methodology
+- Survey-Weighted Statistics
+- Bootstrap Estimation
+- Rao–Scott Chi-Square Testing
+- Regression Modeling
+- Data Visualization
+- Power BI Development
+- Executive Dashboard Design
+- Decision Support Systems
+- Business Intelligence
 
 LinkedIn:
 https://linkedin.com/in/anthony-benyarko
