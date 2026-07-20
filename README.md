@@ -166,7 +166,7 @@ The accompanying Power BI dashboard enables coaches and sports medicine staff to
 The Executive Season Overview provides coaches and sports performance staff with a high-level summary of athlete wellness across the season. Key performance indicators (KPIs), wellness distributions, and survey participation trends allow decision-makers to quickly assess overall team health.
 
 <p align="center">
-  <img src="Season-Overview.png" width="950">
+  <img src="visuals/Season-Overview.png" width="950">
 </p>
 ---
 
