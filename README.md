@@ -174,7 +174,9 @@ The Executive Season Overview provides coaches and sports performance staff with
 
 This page explores the relationships between the primary wellness indicators and the overall Wellbeing Score. Interactive trend visualizations help identify which factors have the strongest influence on athlete wellbeing and support evidence-based recovery decisions.
 
-![Wellness Drivers](Wellness-Drivers.png)
+<p align="center">
+  <img src="visuals/Wellness-Drivers.png" width="950">
+</p>
 
 ---
 
@@ -183,7 +185,7 @@ This page explores the relationships between the primary wellness indicators and
 After selecting a month, users can drill down to individual athlete performance, comparing weighted averages across wellness indicators and identifying athletes who may benefit from targeted interventions.
 
 <p align="center">
-  <img src="Player-Primary-Driver.png" width="950">
+  <img src="visuals/Player-Primary-Driver.png" width="950">
 </p>
 
 ---
@@ -193,7 +195,7 @@ After selecting a month, users can drill down to individual athlete performance,
 The dashboard includes embedded metadata describing data sources, KPI definitions, reporting frequency, and business rules to improve transparency and ensure consistent interpretation across users.
 
 <p align="center">
-  <img src="Metadata-Resource-Information.png" width="950">
+  <img src="visuals/Metadata-Resource-Information.png" width="950">
 </p>
 
 ---
@@ -203,7 +205,7 @@ The dashboard includes embedded metadata describing data sources, KPI definition
 Users can dynamically filter dashboard results by playing position, athlete status, day of the week, and month, allowing coaches and sports medicine staff to tailor analyses to specific athlete groups and reporting periods.
 
 <p align="center">
-  <img src="Wellness-Drivers-Slicers.png" width="950">
+  <img src="visuals/Wellness-Drivers-Slicers.png" width="950">
 </p>
 
 ---
@@ -213,17 +215,8 @@ Users can dynamically filter dashboard results by playing position, athlete stat
 Navigation controls provide quick access to the Executive Season Overview, Wellness Drivers analysis, and individual player drill-through pages, enabling users to move seamlessly between strategic and operational views.
 
 <p align="center">
-  <img src="Season-Overview-Slicers.png" width="950">
+  <img src="visuals/Season-Overview-Slicers.png" width="950">
 </p>
-
----
-
-
-
-
-
-
-
 
 ---
 
