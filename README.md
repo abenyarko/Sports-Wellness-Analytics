@@ -261,7 +261,7 @@ One of the most important outcomes was recognizing that monitoring longitudinal 
 
 This insight fundamentally changed the direction of the project and established the foundation for future predictive athlete monitoring.
 
-#### Choosing Meaningful Predictive Models
+### Choosing Meaningful Predictive Models
 
 One of the most valuable lessons from this project was recognizing the importance of selecting analytical methods that answer meaningful research questions rather than simply producing statistically significant results.
 
