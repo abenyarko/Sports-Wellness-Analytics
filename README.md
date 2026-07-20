@@ -303,6 +303,25 @@ Although developed within collegiate athletics, the framework is transferable to
 
 ---
 
+## Project Deliverables
+
+This project includes multiple deliverables tailored to both executive and technical audiences.
+
+### Decision Support Dashboard
+A dashboard to explore the results interactively.
+
+
+
+### Executive Summary
+A concise overview of the project's objectives, key findings, business impact, and strategic recommendations for organizational leaders.
+
+📄 **[View Executive Summary](executive-summary/Executive-Summary-MLAX-Player-Wellness-Survey-Analysis-2025.pdf)**
+
+### Technical Report
+A comprehensive report documenting the analytical methodology, statistical analyses, survey-weighting procedures, findings, and future development of the longitudinal decision-support framework.
+
+📄 **[View Technical Report](report/MLAX-Player-Wellness-Survey-Analysis-2025.pdf)**
+
 ***This project reflects my passion for building analytics ecosystems that move organizations beyond reporting toward proactive, evidence-based decision-making through longitudinal decision-support frameworks.***
 
 ---
