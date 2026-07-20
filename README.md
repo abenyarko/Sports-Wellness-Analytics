@@ -261,6 +261,16 @@ One of the most important outcomes was recognizing that monitoring longitudinal 
 
 This insight fundamentally changed the direction of the project and established the foundation for future predictive athlete monitoring.
 
+#### Choosing Meaningful Predictive Models
+
+One of the most valuable lessons from this project was recognizing the importance of selecting analytical methods that answer meaningful research questions rather than simply producing statistically significant results.
+
+Early in the analysis, linear regression models were developed using the Wellbeing Score as the dependent variable and the individual wellness indicators as predictors. While these models produced statistically significant results, the Wellbeing Score is derived directly from these same indicators, making the predictive relationship largely expected rather than informative.
+
+Although incorporating player position and interaction effects provided meaningful insights into how wellness relationships differed across positions, it did not eliminate the underlying dependence between the predictors and the outcome. This distinction reinforced the importance of separating exploratory analyses, which help explain existing relationships, from predictive models, which should evaluate independent outcomes.
+
+Moving forward, predictive modeling efforts will focus on objective performance and readiness measures—such as countermovement jump (CMJ), reactive strength index (RSI), Catapult workload metrics, and other external performance indicators—to generate more meaningful, actionable insights that support evidence-based decision-making.
+
 ---
 
 ## Future Development
