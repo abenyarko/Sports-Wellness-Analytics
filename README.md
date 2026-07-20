@@ -174,9 +174,7 @@ The Executive Season Overview provides coaches and sports performance staff with
 
 This page explores the relationships between the primary wellness indicators and the overall Wellbeing Score. Interactive trend visualizations help identify which factors have the strongest influence on athlete wellbeing and support evidence-based recovery decisions.
 
-<p align="center">
-  <img src="Wellness-Drivers.png" width="950">
-</p>
+![Wellness Drivers](Wellness-Drivers.png)
 
 ---
 
