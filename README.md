@@ -1,11 +1,12 @@
 # 🥍 Sports-Wellness-Analytics
+<p align="center"> **Survey Statistics - Decision Science - Business Intelligence - R**</p>
 **Developed an end-to-end analytics pipeline using survey-weighted statistics, machine learning, and Power BI to support athlete wellness monitoring and evidence-based performance decisions.**
 
 ## Executive Summary
 
 The primary objective is to assess player wellness using five known performance indicators (KPIs): sleep quality, motivation, overall stress, physical fatigue, and soreness. The analysis distinguishes primary drivers, secondary drivers, and supporting indicators of wellness, while identifying meaningful differences across playing positions.
 
-Using daily wellness survey data collected throughout an NCAA Division I men's lacrosse season, I developed an end-to-end analytics pipeline that transforms subjective athlete wellness responses into a longitudinal decision-support framework that creates actionable insights for coaches and sports performance professionals.
+Using daily wellness survey data collected throughout an NCAA Division I men's lacrosse season, I developed an end-to-end analytics pipeline that transforms subjective athlete wellness responses into a longitudinal decision-support framework that supports proactive, evidence-based decision-making.
 
 The project integrates survey-weighted statistical methods, bootstrapping, regression modeling, and interactive Power BI dashboards to identify the primary drivers of athlete wellness and support proactive decision-making.
 
