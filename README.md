@@ -1,6 +1,8 @@
 # 🥍 Sports-Wellness-Analytics
 <p align="center"> <b>Survey Statistics - Decision Science - Business Intelligence - R<b></p>
 
+---
+
 **Developed an end-to-end analytics pipeline using survey-weighted statistics, machine learning, and Power BI to support athlete wellness monitoring and evidence-based performance decisions.**
 
 ## Executive Summary
