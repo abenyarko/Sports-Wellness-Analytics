@@ -33,6 +33,12 @@ The objective of this project was to develop a repeatable analytics framework ca
 
 ---
 
+## Project Vision Statement
+
+***This project reflects my passion for building analytics ecosystems that move organizations beyond reporting toward proactive, evidence-based decision-making through longitudinal decision-support frameworks.***
+
+---
+
 ## Research Questions
 
 This project answers several key questions:
