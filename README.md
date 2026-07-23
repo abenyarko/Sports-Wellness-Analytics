@@ -334,12 +334,6 @@ A comprehensive report documenting the analytical methodology, statistical analy
 
 ---
 
-## Project Vision Statement
-
-***This project reflects my passion for building analytics ecosystems that move organizations beyond reporting toward proactive, evidence-based decision-making through longitudinal decision-support frameworks.***
-
----
-
 ## Repository Structure
 
 📂 analysis/
